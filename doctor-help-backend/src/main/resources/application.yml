@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: doctor-help-server
+
+server:
+  port: 8080
+
+doctor-help:
+  demo-mode: true
+  auth:
+    token-timeout: 10m

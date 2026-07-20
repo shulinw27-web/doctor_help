@@ -1,0 +1,37 @@
+{
+  "name": "doctor-help-desktop",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "electron/main.cjs",
+  "scripts": {
+    "dev:web": "vite",
+    "dev": "concurrently -k \"vite\" \"wait-on tcp:5173 && electron .\"",
+    "build": "vue-tsc --noEmit && vite build",
+    "lint": "eslint . --max-warnings=0",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "axios": "latest",
+    "echarts": "latest",
+    "element-plus": "latest",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "concurrently": "latest",
+    "electron": "latest",
+    "eslint": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-plugin-vue": "latest",
+    "prettier": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vue-tsc": "latest",
+    "wait-on": "latest"
+  }
+}

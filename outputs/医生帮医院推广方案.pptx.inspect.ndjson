@@ -1,0 +1,116 @@
+{"kind":"deck","id":"pr/min1s2","name":"Deck"}
+{"kind":"layout","layoutId":"f25caf49-7192-49b6-a43f-ede96f2635b9","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"0d8a1591-358b-4b27-8b70-cb35a9f17ee8","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/2i3byu","slide":1,"title":"医生帮","textShapes":5}
+{"kind":"textbox","id":"sh/4re94ru9","slide":1,"text":"医生帮","textPreview":"医生帮","textChars":3,"textLines":1,"bbox":[72,112,600,80]}
+{"kind":"textbox","id":"sh/jq5svmto","slide":1,"text":"院内门诊检测资料智能汇总助手","textPreview":"院内门诊检测资料智能汇总助手","textChars":14,"textLines":1,"bbox":[72,205,780,42]}
+{"kind":"textbox","id":"sh/ipwr2hc3","slide":1,"text":"让医生更快看懂资料，把判断留给医生。","textPreview":"让医生更快看懂资料，把判断留给医生。","textChars":18,"textLines":1,"bbox":[72,278,780,36]}
+{"kind":"shape","id":"sh/ho3qtcbi","slide":1,"bbox":[820,120,320,340]}
+{"kind":"textbox","id":"sh/wnu907ux","slide":1,"text":"本地部署\n数据不出院\n医生主导","textPreview":"本地部署 | 数据不出院 | 医生主导","textChars":15,"textLines":3,"bbox":[858,175,240,220]}
+{"kind":"textbox","id":"sh/vml8rmtc","slide":1,"text":"演示版推广方案 · 2026","textPreview":"演示版推广方案 · 2026","textChars":14,"textLines":1,"bbox":[72,650,400,18]}
+{"kind":"notes","id":"nt/2i3byu","slide":1,"text":""}
+{"kind":"slide","id":"sl/ff8ukf","slide":2,"title":"临床现场","textShapes":10}
+{"kind":"textbox","id":"sh/8nmdwz69","slide":2,"text":"临床现场","textPreview":"临床现场","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/nmdwnu5o","slide":2,"text":"门诊资料处理的效率瓶颈","textPreview":"门诊资料处理的效率瓶颈","textChars":11,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/ml4vupoj","slide":2,"text":"报告分散、时间紧张、历史资料难横向比较，医生需要一个可信的信息助手。","textPreview":"报告分散、时间紧张、历史资料难横向比较，医生需要一个可信的信息助手。","textChars":34,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/lkvelkny","slide":2,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/0jmdsf6d","slide":2,"text":"资料分散","textPreview":"资料分散","textChars":4,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/zitwja5s","slide":2,"text":"检验、影像、就诊记录跨系统查看","textPreview":"检验、影像、就诊记录跨系统查看","textChars":15,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/yhkvqpo7","slide":2,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/dgbehk7m","slide":2,"text":"趋势难见","textPreview":"趋势难见","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/cf2dof61","slide":2,"text":"多次结果需人工比对","textPreview":"多次结果需人工比对","textChars":9,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/6twbip8v","slide":2,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/7upsbupg","slide":2,"text":"时间宝贵","textPreview":"时间宝贵","textChars":4,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/svytkzql","slide":2,"text":"医生应聚焦判断与沟通","textPreview":"医生应聚焦判断与沟通","textChars":10,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/tw7ad476","slide":2,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/ff8ukf","slide":2,"text":""}
+{"kind":"slide","id":"sl/m1r39x","slide":3,"title":"产品定位","textShapes":10}
+{"kind":"textbox","id":"sh/29wbulkn","slide":3,"text":"产品定位","textPreview":"产品定位","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/pc7u50je","slide":3,"text":"医生帮的边界清晰：辅助，不替代","textPreview":"医生帮的边界清晰：辅助，不替代","textChars":15,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/obytwv2t","slide":3,"text":"系统负责汇总、标注、追溯；诊断、处方与治疗决策始终由医生完成。","textPreview":"系统负责汇总、标注、追溯；诊断、处方与治疗决策始终由医生完成。","textChars":31,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/bepc7q14","slide":3,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/qdgbylkj","slide":3,"text":"汇总资料","textPreview":"汇总资料","textChars":4,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/dg7u90ja","slide":3,"text":"患者档案、检验、影像报告","textPreview":"患者档案、检验、影像报告","textChars":12,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/cfyt0v2p","slide":3,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/rilsv6l0","slide":3,"text":"提示异常","textPreview":"提示异常","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/6hcbm1kf","slide":3,"text":"参考区间、趋势与待关注项","textPreview":"参考区间、趋势与待关注项","textChars":12,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/o7u9kvmt","slide":3,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/p83at0ne","slide":3,"text":"保留证据","textPreview":"保留证据","textChars":4,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/25cril4n","slide":3,"text":"每项输出可回溯原始资料","textPreview":"每项输出可回溯原始资料","textChars":11,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/n6lsrq58","slide":3,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/m1r39x","slide":3,"text":""}
+{"kind":"slide","id":"sl/ub4qyj","slide":4,"title":"当前能力","textShapes":10}
+{"kind":"textbox","id":"sh/bqlgnqpg","slide":4,"text":"当前能力","textPreview":"当前能力","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/wruxgv61","slide":4,"text":"演示版已形成门诊工作闭环","textPreview":"演示版已形成门诊工作闭环","textChars":12,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/xs3yp07m","slide":4,"text":"从登录到当天患者、患者档案、检测趋势和辅助汇总，已可现场演示。","textPreview":"从登录到当天患者、患者档案、检测趋势和辅助汇总，已可现场演示。","textChars":31,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/mlsfa1oz","slide":4,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/nm1wj6pk","slide":4,"text":"医生工作台","textPreview":"医生工作台","textChars":5,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/onaxcb6p","slide":4,"text":"当天预约、叫号、候诊状态、姓名搜索","textPreview":"当天预约、叫号、候诊状态、姓名搜索","textChars":17,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/9ojelg7a","slide":4,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/6hwfm5o3","slide":4,"text":"患者档案","textPreview":"患者档案","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/7i5gvapo","slide":4,"text":"历史就诊、检测指标、影像报告","textPreview":"历史就诊、检测指标、影像报告","textChars":14,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/rmlknqdo","slide":4,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/q1sjulc3","slide":4,"text":"辅助分析","textPreview":"辅助分析","textChars":4,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/do32pgvu","slide":4,"text":"异常、趋势、证据来源与非诊断声明","textPreview":"异常、趋势、证据来源与非诊断声明","textChars":16,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/snu1wvu9","slide":4,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/ub4qyj","slide":4,"text":""}
+{"kind":"slide","id":"sl/7jjvo7","slide":5,"title":"安全与治理","textShapes":10}
+{"kind":"textbox","id":"sh/fehkf6dw","slide":5,"text":"安全与治理","textPreview":"安全与治理","textChars":5,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/0faloreh","slide":5,"text":"数据留在医院，能力沉淀在院内","textPreview":"数据留在医院，能力沉淀在院内","textChars":14,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/1gj2hwv2","slide":5,"text":"生产环境采用院内隔离部署，首期以只读接入和审计留痕为原则。","textPreview":"生产环境采用院内隔离部署，首期以只读接入和审计留痕为原则。","textChars":29,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/2hs3q1wn","slide":5,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/ni1kj6d8","slide":5,"text":"院内部署","textPreview":"院内部署","textChars":4,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/ojalsbed","slide":5,"text":"模型、知识库、日志均在本地","textPreview":"模型、知识库、日志均在本地","textChars":13,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/pkjmlgvy","slide":5,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/als3ulwj","slide":5,"text":"只读对接","textPreview":"只读对接","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/bm14nqd4","slide":5,"text":"HIS、LIS、PACS/RIS 分阶段接入","textPreview":"HIS、LIS、PACS/RIS 分阶段接入","textChars":22,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/7m58zyp8","slide":5,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/mlw76t8n","slide":5,"text":"医生审核","textPreview":"医生审核","textChars":4,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/9onq187e","slide":5,"text":"AI 输出仅供专业人员参考","textPreview":"AI 输出仅供专业人员参考","textChars":13,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/8nep83qt","slide":5,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/7jjvo7","slide":5,"text":""}
+{"kind":"slide","id":"sl/cpju65","slide":6,"title":"知识资产","textShapes":10}
+{"kind":"textbox","id":"sh/zelkru10","slide":6,"text":"知识资产","textPreview":"知识资产","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/kful0z2l","slide":6,"text":"知识库让经验可复用、可沉淀","textPreview":"知识库让经验可复用、可沉淀","textChars":13,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/lgn2tkj6","slide":6,"text":"知识按层级组织，医生可新增、点赞和追溯提供者，逐步形成医院自己的经验资产。","textPreview":"知识按层级组织，医生可新增、点赞和追溯提供者，逐步形成医院自己的经验资产。","textChars":37,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/apc3u5kj","slide":6,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/bqlkna14","slide":6,"text":"层级检索","textPreview":"层级检索","textChars":4,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/crulwf2p","slide":6,"text":"分类 → 子类 → 主题 → 知识","textPreview":"分类 → 子类 → 主题 → 知识","textChars":17,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/xs32pkja","slide":6,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/2ls3q5kn","slide":6,"text":"共建机制","textPreview":"共建机制","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/nm1kja1s","slide":6,"text":"医生提供、院内审核、账号点赞","textPreview":"医生提供、院内审核、账号点赞","textChars":14,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/32do3ehk","slide":6,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/2147u90z","slide":6,"text":"运营视图","textPreview":"运营视图","textChars":4,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/p4v654zq","slide":6,"text":"热门知识、总量与新增量可统计","textPreview":"热门知识、总量与新增量可统计","textChars":14,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/o3mpwzy5","slide":6,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/cpju65","slide":6,"text":""}
+{"kind":"slide","id":"sl/au33xg","slide":7,"title":"实施路径","textShapes":10}
+{"kind":"textbox","id":"sh/1cb2h4fe","slide":7,"text":"实施路径","textPreview":"实施路径","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/e9kj6pg3","slide":7,"text":"从演示到试点，再到产品化推广","textPreview":"从演示到试点，再到产品化推广","textChars":14,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/fatkfuxo","slide":7,"text":"以低风险演示建立共识，再在医院授权下逐步接入真实系统与数据。","textPreview":"以低风险演示建立共识，再在医院授权下逐步接入真实系统与数据。","textChars":30,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/of2lczy5","slide":7,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/p0v2l4fq","slide":7,"text":"阶段一：演示","textPreview":"阶段一：演示","textChars":6,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/2dk3a9gz","slide":7,"text":"模拟数据验证工作流与可解释性","textPreview":"模拟数据验证工作流与可解释性","textChars":14,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/netkjuxk","slide":7,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/4ji10fyl","slide":7,"text":"阶段二：试点","textPreview":"阶段二：试点","textChars":6,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/5kr29kf6","slide":7,"text":"脱敏数据、只读接口、专家审核","textPreview":"脱敏数据、只读接口、专家审核","textChars":14,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/94f2hkri","slide":7,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/o361ofax","slide":7,"text":"阶段三：推广","textPreview":"阶段三：推广","textChars":6,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/n2dkfa9c","slide":7,"text":"多科室覆盖、专病知识与运营看板","textPreview":"多科室覆盖、专病知识与运营看板","textChars":15,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/m14jm5sr","slide":7,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/au33xg","slide":7,"text":""}
+{"kind":"slide","id":"sl/vf26ge","slide":8,"title":"合作诉求","textShapes":10}
+{"kind":"textbox","id":"sh/6d4z2pon","slide":8,"text":"合作诉求","textPreview":"合作诉求","textChars":4,"textLines":1,"bbox":[72,54,500,24]}
+{"kind":"textbox","id":"sh/dgfid47y","slide":8,"text":"建议从一个可验证的门诊试点开始","textPreview":"建议从一个可验证的门诊试点开始","textChars":15,"textLines":1,"bbox":[72,92,1080,70]}
+{"kind":"textbox","id":"sh/sf6h4z6t","slide":8,"text":"请医院共同确认试点科室、接口范围和临床审核机制，以实际使用价值推进下一阶段。","textPreview":"请医院共同确认试点科室、接口范围和临床审核机制，以实际使用价值推进下一阶段。","textChars":38,"textLines":1,"bbox":[72,178,1040,80]}
+{"kind":"shape","id":"sh/jad07apw","slide":8,"bbox":[72,300,330,130]}
+{"kind":"textbox","id":"sh/ip4zy5ob","slide":8,"text":"信息科","textPreview":"信息科","textChars":3,"textLines":1,"bbox":[94,320,280,28]}
+{"kind":"textbox","id":"sh/5cvi9k72","slide":8,"text":"评估 OA/HIS/LIS/PACS 接口与内网部署","textPreview":"评估 OA/HIS/LIS/PACS 接口与内网部署","textChars":26,"textLines":1,"bbox":[94,358,280,52]}
+{"kind":"shape","id":"sh/4bmh0f6h","slide":8,"bbox":[442,300,330,130]}
+{"kind":"textbox","id":"sh/vmt03ap0","slide":8,"text":"临床科室","textPreview":"临床科室","textChars":4,"textLines":1,"bbox":[464,320,280,28]}
+{"kind":"textbox","id":"sh/ulkzu5of","slide":8,"text":"确认资料汇总规则与专家审核人","textPreview":"确认资料汇总规则与专家审核人","textChars":14,"textLines":1,"bbox":[464,358,280,52]}
+{"kind":"shape","id":"sh/sjitkbqx","slide":8,"bbox":[812,300,330,130]}
+{"kind":"textbox","id":"sh/tkradg7i","slide":8,"text":"管理层","textPreview":"管理层","textChars":3,"textLines":1,"bbox":[834,320,280,28]}
+{"kind":"textbox","id":"sh/6h0bi18r","slide":8,"text":"确定试点指标：使用率、资料处理时长、满意度","textPreview":"确定试点指标：使用率、资料处理时长、满意度","textChars":21,"textLines":1,"bbox":[834,358,280,52]}
+{"kind":"textbox","id":"sh/7i9sr6pc","slide":8,"text":"医生帮 · 院内医生智能助手","textPreview":"医生帮 · 院内医生智能助手","textChars":14,"textLines":1,"bbox":[72,676,400,18]}
+{"kind":"notes","id":"nt/vf26ge","slide":8,"text":""}
